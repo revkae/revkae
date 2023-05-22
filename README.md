@@ -1,5 +1,4 @@
 <h2>🏋️‍♂️ Ravan Mamiyev</h2>
-<br />
 
 **`Digital Craftman (Developer)`**
 
