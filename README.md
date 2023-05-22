@@ -33,13 +33,11 @@ Also, I am currently using spigot mostly if you run into any problem with spigot
 </div>  
 
 <br />
-<br />
-<br />
 
 ---
 
 
 <h3>📊 Stats</h3>
   
-  ![revkae's GitHub stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=tokyonight&hide_border=true)
-  ---
+![revkae's GitHub stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=tokyonight&hide_border=true)
+---
