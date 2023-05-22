@@ -1,4 +1,4 @@
-<summary><h1>🏋️‍♂️ Ravan Mamiyev</h1></summary>
+<h2>🏋️‍♂️ Ravan Mamiyev</h2>
 <br />
 
 **`Digital Craftman (Developer)`**
@@ -16,7 +16,7 @@ Also, I am currently using spigot mostly if you run into any problem with spigot
 
 ---
 
-<summary><h3>⚒️ Languages and Tools</h3></summary>
+<h3>⚒️ Languages and Tools</h3>
 
 <br />
 <div align="left" style="margin: 20px;">
@@ -40,7 +40,7 @@ Also, I am currently using spigot mostly if you run into any problem with spigot
 ---
 
 
-<summary><h3>📊 Stats</h3></summary>
+<h3>📊 Stats</h3>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=tokyonight)
+  ![revkae's GitHub stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=tokyonight&hide_border=true)
   ---
