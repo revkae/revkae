@@ -1,9 +1,9 @@
 <h2>🏋️‍♂️ Ravan Mamiyev</h2>
 
-**`Digital Craftman (Developer)`**
+<h3>`Digital Craftman (Developer)`</h3>
 
-I'm an indie java developer who loves to work on libraries that would make my journey easier. Hoping to create as many as libraries to achieve ease that I can't feel it in apis. 
-Also, I am currently using spigot mostly if you run into any problem with spigot you can contact me.
+**I'm an indie java developer who loves to work on libraries that would make my journey easier. Hoping to create as many as libraries to achieve ease that I can't feel it in apis. 
+Also, I am currently using spigot mostly if you run into any problem with spigot you can contact me.**
 
 <!-- Social icons section -->
 <p align="center">
