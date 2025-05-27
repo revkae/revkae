@@ -9,8 +9,6 @@ Also, I am currently using spigot mostly if you run into any problem with spigot
 <p align="center">
   <a href="https://www.instagram.com/revkae/"><img width="32px" alt="Instangram" title="Personal Page" src="https://i.imgur.com/a5FmXvh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="discord.codava.net" alt="Discord" title="Codava Discord Server"><img width="32px" src="https://i.imgur.com/yc1NuY4.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
