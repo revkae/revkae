@@ -1,13 +1,12 @@
 <h2>🏋️‍♂️ Ravan Mamiyev</h2>
 
-<h3>`Digital Craftman (Developer)`</h3>
+<h3>`Digital Craftsman (Developer)`</h3>
 
-**I'm an indie java developer who loves to work on libraries that would make my journey easier. Hoping to create as many as libraries to achieve ease that I can't feel it in apis. 
-Also, I am currently using spigot mostly if you run into any problem with spigot you can contact me.**
+**I'm an indie Java developer who loves to work on libraries that make my development journey easier. My goal is to create as many libraries as possible to achieve the ease and functionality I wish existed in standard APIs. I'm currently working primarily with Spigot - if you run into any problems with Spigot, feel free to contact me!**
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/revkae/"><img width="32px" alt="Instangram" title="Personal Page" src="https://i.imgur.com/a5FmXvh.png"/></a>
+  <a href="https://www.instagram.com/revkae/"><img width="32px" alt="Instagram" title="Instagram Profile" src="https://i.imgur.com/a5FmXvh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -34,13 +33,11 @@ Also, I am currently using spigot mostly if you run into any problem with spigot
 
 ---
 
-
 <h3>📊 Stats</h3>
 <div align="left">
   
-  ![revkae's GitHub stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=revkae&show_icons=true&theme=gruvbox&count_private=true)
   
 </div>
-
 
 ---
