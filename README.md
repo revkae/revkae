@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer</h3>
 
 <p align="center">
-  <b>Hello, I have been coding for more than 4 years already. Interested in learning new languages, libraries, tools and etc. to make games. Currently using Unity as my main engine and Godot as hobby.</b>
+  <b>Hello, I have been coding for more than 4 years already. Interested in learning new languages, libraries, tools and etc. to make games. Currently using Unity as my main engine and Godot as hobby. Entering game jams as much as possible because they are fun. Check itch io for my game jam games.</b>
 </p>
 
 <p align="center">
